@@ -1,16 +1,36 @@
-# Flexbox Froggy
+# CSS Diner and Flexbox Froggy 
 
-For this deliverable go ahead and fork and clone this repo.
+## Preparation
+For this deliverable please Fork and Clone this repo. 
 
-Flexbox Froggy is an excellent resource to get up and running with CSS Flexbox.
-[Flexbox Froggy](https://flexboxfroggy.com/)
+To submit the assignment, you will submit a Pull Request.
 
-For this assignment make it to at least level 12 and take a screenshot of your progress once complete. Go ahead and move the screenshot image into this repo and submit your pull request.
+If you need a refresher, consult this guide on [Submitting Deliverables](https://github.com/SEIR-11-08/deliverable-submissions).
 
 
-![flexbox froggy](./flexbox-froggy.png)
+## Objective
+For this assignment, you will be playing the [CSS Diner](https://flukeout.github.io/) and [Flexbox Froggy](https://flexboxfroggy.com/) games.
 
-## Quick screenshots guides:
+For each game, progress to the furthest level you can and take a screenshot of your final level once complete.
+
+You will move one screenshot for CSS Diner, and one screenshot for Flexbox Froggy into this repository and submit your Pull Request.
+
+---
+
+## CSS Diner
+[CSS Diner](https://flukeout.github.io/) is a fun game where you can learn to use CSS Selectors!
+
+![CSS Diner](images/css-diner.png)
+
+## Flexbox Froggy
+[Flexbox Froggy](https://flexboxfroggy.com/) is an excellent resource to get up and running with CSS Flexbox.
+
+
+![flexbox froggy](images/flexbox-froggy.png)
+
+---
+
+## Quick screenshots guide:
 [Apple's Screenshot Guide Page](https://support.apple.com/en-us/HT201361)
 
 Command key ⌘ + Shift + 4
